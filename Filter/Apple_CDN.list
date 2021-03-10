@@ -1,0 +1,21 @@
+# Apple_CDN
+
+# > App Store
+USER-AGENT,com.apple.appstored*,Apple_CDN
+HOST-SUFFIX,mzstatic.com,Apple_CDN
+HOST,iosapps.itunes.apple.com,Apple_CDN
+HOST,osxapps.itunes.apple.com,Apple_CDN
+# > Update
+HOST,supportdownload.apple.com,Apple_CDN
+HOST,appldnld.apple.com,Apple_CDN
+HOST,swcdn.apple.com,Apple_CDN
+HOST,apptrailers.itunes.apple.com,Apple_CDN
+HOST,updates-http.cdn-apple.com,Apple_CDN
+# Apple Music
+HOST,aod.itunes.apple.com,Apple_CDN
+HOST,api.smoot.apple.cn,Apple_CDN
+HOST,music.apple.com,Apple_CDN
+HOST,mvod.itunes.apple.com,Apple_CDN
+# > Map
+HOST-SUFFIX,ls.apple.com,Apple_CDN
+HOST,gs-loc-cn.apple.com,Apple_CDN

@@ -1,0 +1,94 @@
+# ChinaMedia
+
+# (Video)
+# > Apple TV
+USER-AGENT,AppleTV*,ChinaMedia
+USER-AGENT,com.apple.tv*,ChinaMedia
+HOST,np-edge.itunes.apple.com,ChinaMedia
+HOST,play-edge.itunes.apple.com,ChinaMedia
+HOST-SUFFIX,tv.apple.com,ChinaMedia
+# > Acfun
+USER-AGENT,AcFun*,ChinaMedia
+HOST-SUFFIX,acfun.cn,ChinaMedia
+HOST-SUFFIX,acfun.com,ChinaMedia
+HOST-SUFFIX,aixifan.com,ChinaMedia
+# > Bilibili
+USER-AGENT,*bili*,ChinaMedia
+USER-AGENT,Bilibili*,ChinaMedia
+USER-AGENT,bili*,ChinaMedia
+HOST-SUFFIX,acg.tv,ChinaMedia
+HOST-SUFFIX,acgvideo.com,ChinaMedia
+HOST-SUFFIX,b23.tv,ChinaMedia
+HOST-SUFFIX,biliapi.com,ChinaMedia
+HOST-SUFFIX,biliapi.net,ChinaMedia
+HOST-SUFFIX,bilibili.com,ChinaMedia
+HOST-SUFFIX,bilibili.tv,ChinaMedia
+HOST-SUFFIX,biligame.com,ChinaMedia
+HOST-SUFFIX,biligame.net,ChinaMedia
+HOST-SUFFIX,bilivideo.com,ChinaMedia
+HOST-SUFFIX,bilivideo.net,ChinaMedia
+HOST-SUFFIX,hdslb.com,ChinaMedia
+HOST-SUFFIX,im9.com,ChinaMedia
+# > Tencent Video
+HOST-SUFFIX,video.qq.com,ChinaMedia
+HOST-SUFFIX,i.qq.com,ChinaMedia
+HOST-SUFFIX,v.qq.com,ChinaMedia
+# > iQiyi
+USER-AGENT,iQIYI*,ChinaMedia
+USER-AGENT,QYPlayer*,ChinaMedia
+HOST-SUFFIX,iqiyi.com,ChinaMedia
+HOST-SUFFIX,71edge.com,ChinaMedia
+HOST-SUFFIX,iqiyiedge.com,ChinaMedia
+# > Youku
+USER-AGENT,Youku*,ChinaMedia
+HOST-SUFFIX,soku.com,ChinaMedia
+HOST-SUFFIX,youku.com,ChinaMedia
+HOST-SUFFIX,tudou.com,ChinaMedia
+HOST-SUFFIX,ykimg.com,ChinaMedia
+# > XiGua
+HOST-SUFFIX,ixigua.com,ChinaMedia
+HOST-SUFFIX,snssdk.com,ChinaMedia
+# > HunanTV
+USER-AGENT,MGTV*,ChinaMedia
+HOST-SUFFIX,hitv.com,ChinaMedia
+HOST-SUFFIX,hunantv.com,ChinaMedia
+HOST-SUFFIX,mgtv.com,ChinaMedia
+# > LeTV
+HOST-SUFFIX,le.com,ChinaMedia
+HOST-SUFFIX,letv.com,ChinaMedia
+# > PPTV
+HOST-SUFFIX,pplive.com,ChinaMedia
+HOST-SUFFIX,pptv.com,ChinaMedia
+# > Sohu Video
+HOST-SUFFIX,56.com,ChinaMedia
+HOST-SUFFIX,itc.cn,ChinaMedia
+HOST-SUFFIX,sohu.com,ChinaMedia
+# > Migu Video
+USER-AGENT,MiguVideo*,ChinaMedia
+HOST-SUFFIX,cmvideo.cn,ChinaMedia
+HOST-SUFFIX,miguvideo.com,ChinaMedia
+
+# (Music)
+# > QQ Music
+HOST-SUFFIX,music.qq.com,ChinaMedia
+HOST-SUFFIX,music.tc.qq.com,ChinaMedia
+HOST-SUFFIX,qqmusic.qq.com,ChinaMedia
+HOST-SUFFIX,tencentmusic.com,ChinaMedia
+HOST-SUFFIX,y.qq.com,ChinaMedia
+HOST,aqqmusic.tc.qq.com,ChinaMedia
+HOST,moo.qq.com,ChinaMedia
+# > Netease Cloud Music
+HOST-SUFFIX,music.163.com,ChinaMedia
+HOST-SUFFIX,music.126.net,ChinaMedia
+HOST,mam.netease.com,ChinaMedia
+HOST,api.iplay.163.com,ChinaMedia
+# Kugou and Kuwo
+HOST-SUFFIX,kugou.com,ChinaMedia
+HOST-SUFFIX,kuwo.cn,ChinaMedia
+HOST-SUFFIX,koowo.com,ChinaMedia
+# > Qianqian Music
+USER-AGENT,baiduyinyue,ChinaMedia
+HOST-SUFFIX,qianqian.com,ChinaMedia
+HOST-SUFFIX,taihe.com,ChinaMedia
+# > Migu Music
+HOST-SUFFIX,migu.cn,ChinaMedia
