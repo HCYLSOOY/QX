@@ -174,7 +174,7 @@ HOST-SUFFIX,netflixdnstest6.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest7.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest8.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest9.com,GlobalMedia
-HOST-KEYWORD,dualstack.apiproxy-device-prod-nlb-,GlobalMedia
+HOST-KEYWORD,dualstack.apiproxy-,GlobalMedia
 HOST-KEYWORD,dualstack.ichnaea-web-,GlobalMedia
 IP-CIDR,23.246.0.0/18,GlobalMedia
 IP-CIDR,37.77.184.0/21,GlobalMedia
