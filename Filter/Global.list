@@ -62,19 +62,6 @@ HOST,assets1.xboxlive.com,Global
 HOST,assets2.xboxlive.com,Global
 HOST,az416426.vo.msecnd.net,Global
 HOST,az668014.vo.msecnd.net,Global
-# > The New York Times
-HOST-SUFFIX,nyt.com,Global
-HOST-SUFFIX,nytchina.com,Global
-HOST-SUFFIX,nytcn.me,Global
-HOST-SUFFIX,nytco.com,Global
-HOST-SUFFIX,nytimes.com,Global
-HOST-SUFFIX,nytimg.com,Global
-HOST-SUFFIX,nytlog.com,Global
-HOST-SUFFIX,nytstyle.com,Global
-# > pixiv
-HOST-SUFFIX,pixiv.net,Global
-HOST-SUFFIX,pixiv.org,Global
-HOST-SUFFIX,pximg.net,Global
 # > Reddit
 HOST-SUFFIX,redd.it,Global
 HOST-SUFFIX,reddit.com,Global
