@@ -205,6 +205,8 @@ HOST-SUFFIX,cbsivideo.com,GlobalMedia
 HOST-SUFFIX,paramountplus.com,GlobalMedia
 HOST-SUFFIX,pplusstatic.com,GlobalMedia
 HOST,cbsi.live.ott.irdeto.com,GlobalMedia
+HOST,cbsplaylistserver.aws.syncbak.com,GlobalMedia
+HOST,cbsservice.aws.syncbak.com,GlobalMedia
 # > PBS
 USER-AGENT,PBS*,GlobalMedia
 HOST-SUFFIX,pbs.org,GlobalMedia
