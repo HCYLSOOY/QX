@@ -30,13 +30,9 @@ HOST-SUFFIX,baidupcs.com,China
 HOST-SUFFIX,bdimg.com,China
 HOST-SUFFIX,bdstatic.com,China
 HOST-SUFFIX,yunjiasu-cdn.net,China
-# > bilibili
-HOST-SUFFIX,acgvideo.com,China
-HOST-SUFFIX,biliapi.com,China
-HOST-SUFFIX,biliapi.net,China
-HOST-SUFFIX,bilibili.com,China
-HOST-SUFFIX,bilibili.tv,China
-HOST-SUFFIX,hdslb.com,China
+# > Battle
+HOST-SUFFIX,battle.net,China
+HOST-SUFFIX,blizzard.com,China
 # > ByteDance
 HOST-SUFFIX,feiliao.com,China
 HOST-SUFFIX,pstatp.com,China
