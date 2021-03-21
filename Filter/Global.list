@@ -14,7 +14,6 @@ HOST-SUFFIX,dropbox.com,Global
 HOST-SUFFIX,dropboxapi.com,Global
 HOST-SUFFIX,dropboxusercontent.com,Global
 # > Facebook
-HOST-SUFFIX,cdninstagram.com,Global
 HOST-SUFFIX,facebook.com,Global
 HOST-SUFFIX,facebook.net,Global
 HOST-SUFFIX,fb.com,Global
@@ -23,7 +22,6 @@ HOST-SUFFIX,fbaddins.com,Global
 HOST-SUFFIX,fbcdn.net,Global
 HOST-SUFFIX,fbsbx.com,Global
 HOST-SUFFIX,fbworkmail.com,Global
-HOST-SUFFIX,instagram.com,Global
 HOST-SUFFIX,m.me,Global
 HOST-SUFFIX,messenger.com,Global
 HOST-SUFFIX,oculus.com,Global
