@@ -56,6 +56,8 @@ HOST-KEYWORD,uk-live,GlobalMedia
 USER-AGENT,DAZN*,GlobalMedia
 HOST-SUFFIX,dazn.com,GlobalMedia
 HOST-SUFFIX,dazn-api.com,GlobalMedia
+HOST-SUFFIX,dazndn.com,GlobalMedia
+HOST-SUFFIX,indazn.com,GlobalMedia
 HOST,d151l6v8er5bdm.cloudfront.net,GlobalMedia
 HOST-KEYWORD,voddazn,GlobalMedia
 # > Disney+
@@ -81,15 +83,6 @@ HOST-SUFFIX,fox.com,GlobalMedia
 HOST-SUFFIX,foxdcg.com,GlobalMedia
 HOST-SUFFIX,theplatform.com,GlobalMedia
 HOST-SUFFIX,uplynk.com,GlobalMedia
-# > FOX+
-HOST-SUFFIX,foxplus.com,GlobalMedia
-# HOST-SUFFIX,theplatform.com,GlobalMedia
-HOST,cdn-fox-networks-group-green.akamaized.net,GlobalMedia
-HOST,d3cv4a9a9wh0bt.cloudfront.net,GlobalMedia
-HOST,foxsports01-i.akamaihd.net,GlobalMedia
-HOST,foxsports02-i.akamaihd.net,GlobalMedia
-HOST,foxsports03-i.akamaihd.net,GlobalMedia
-HOST,staticasiafox.akamaized.net,GlobalMedia
 # > HBO NOW & Max
 USER-AGENT,HBO%20NOW*,GlobalMedia
 HOST-SUFFIX,hbo.com,GlobalMedia
