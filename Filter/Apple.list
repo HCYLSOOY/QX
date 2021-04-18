@@ -31,7 +31,7 @@ HOST-SUFFIX,cdn-apple.com,Apple_API
 HOST-SUFFIX,icloud.com,Apple_API
 HOST-SUFFIX,icloud-content.com,Apple_API
 HOST-SUFFIX,itunes.com,Apple_API
-HOST-SUFFIX, me.com,Apple_API
+HOST-SUFFIX,me.com,Apple_API
 IP-CIDR,17.0.0.0/8,Apple_API
 IP-CIDR,63.92.224.0/19,Apple_API
 IP-CIDR,65.199.22.0/23,Apple_API
