@@ -88,27 +88,31 @@ HOST-SUFFIX,miwifi.com,China
 HOST-SUFFIX,xiaomi.com,China
 HOST-SUFFIX,xiaomi.net,China
 # > Microsoft
-# HOST-SUFFIX,microsoft.com,China
-# HOST-SUFFIX,msecnd.net,China
-# HOST-SUFFIX,office.com,China
-# HOST-SUFFIX,office365.com,China
-# HOST-SUFFIX,s-microsoft.com,China
-# HOST-SUFFIX,windows.com,China
-# HOST-SUFFIX,windowsupdate.com,China
-# HOST-KEYWORD,-microsoft-com.akamaized.net,China
-HOST-SUFFIX,visualstudio.com,China
+# DOMAIN-SUFFIX,microsoft.com,China
+# DOMAIN-SUFFIX,msecnd.net,China
+# DOMAIN-SUFFIX,office.com,China
+# DOMAIN-SUFFIX,office365.com,China
+# DOMAIN-SUFFIX,s-microsoft.com,China
+# DOMAIN-SUFFIX,windows.com,China
+DOMAIN-SUFFIX,visualstudio.com,China
+# >> Microsoft Software Download
+# DOMAIN,software-download.microsoft.com,China
+# DOMAIN-KEYWORD,-microsoft-com.akamaized.net,China
+# >> OneDrive
+# DOMAIN-SUFFIX,1drv.com,China
+# DOMAIN-SUFFIX,storage.live.com,China
 # >> Outlook
-HOST-SUFFIX,hotmail.com,China
-HOST-SUFFIX,outlook.com,China
-HOST,outlook.office365.com,China
-HOST,smtp.office365.com,China
+DOMAIN-SUFFIX,hotmail.com,China
+DOMAIN-SUFFIX,outlook.com,China
+DOMAIN,outlook.office365.com,China
+DOMAIN,smtp.office365.com,China
 # >> Windows Server Update Services
-HOST-SUFFIX,windowsupdate.microsoft.com,China
-HOST-SUFFIX,update.microsoft.com,China
-HOST-SUFFIX,windowsupdate.com,China
-HOST,download.microsoft.com,China
-HOST,wustat.windows.com,China
-HOST,ntservicepack.microsoft.com,China
+DOMAIN-SUFFIX,windowsupdate.microsoft.com,China
+DOMAIN-SUFFIX,update.microsoft.com,China
+DOMAIN-SUFFIX,windowsupdate.com,China
+DOMAIN,download.microsoft.com,China
+DOMAIN,wustat.windows.com,China
+DOMAIN,ntservicepack.microsoft.com,China
 # > NetEase
 USER-AGENT,NeteaseMusic*,China
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,China
