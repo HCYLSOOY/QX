@@ -147,7 +147,7 @@ HOST-SUFFIX,steamcontent.com,China
 HOST-SUFFIX,steampowered.com,China
 HOST-SUFFIX,steamstatic.com,China
 # > Tencent
-USER-AGENT,MicroMessenger%20Client,China
+USER-AGENT,MicroMessenger*,China
 USER-AGENT,WeChat*,China
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,China
 HOST-SUFFIX,gcloudcs.com,China
@@ -186,10 +186,6 @@ HOST-SUFFIX,test-ipv6.com,China
 HOST-SUFFIX,whatismyip.com,China
 HOST,ip.istatmenus.app,China
 HOST,sms.imagetasks.com,China
-# > Speed Test
-# HOST-SUFFIX,speedtest.net,China
-HOST-SUFFIX,netspeedtestmaster.com,China
-HOST,speedtest.macpaw.com,China
 # > Private Tracker
 HOST-SUFFIX,acg.rip,China
 HOST-SUFFIX,animebytes.tv,China
