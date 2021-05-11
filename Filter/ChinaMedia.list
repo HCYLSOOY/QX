@@ -29,6 +29,8 @@ HOST-SUFFIX,bilivideo.com,ChinaMedia
 HOST-SUFFIX,bilivideo.net,ChinaMedia
 HOST-SUFFIX,hdslb.com,ChinaMedia
 HOST-SUFFIX,im9.com,ChinaMedia
+HOST-SUFFIX,app.biliintl.com,ChinaMedia
+HOST,upos-bstar-mirrorakam.akamaized.net,ChinaMedia
 # > Tencent Video
 HOST-SUFFIX,video.qq.com,ChinaMedia
 HOST-SUFFIX,i.qq.com,ChinaMedia
