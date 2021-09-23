@@ -162,6 +162,16 @@ HOST-SUFFIX,tencent.com,China
 HOST-SUFFIX,tencent-cloud.net,China
 HOST-SUFFIX,tenpay.com,China
 HOST-SUFFIX,wechat.com,China
+HOST,file-igamecj.akamaized.net,China
+IP-CIDR,101.32.104.4/32,China
+IP-CIDR,101.32.104.41/32,China
+IP-CIDR,101.32.104.56/32,China
+IP-CIDR,101.32.118.25/32,China
+IP-CIDR,101.32.133.16/32,China
+IP-CIDR,101.32.133.53/32,China
+IP-CIDR,101.32.133.209/32,China
+IP-CIDR,129.226.3.47/32,China
+IP-CIDR,129.226.107.244/32,China
 IP-CIDR,182.254.116.0/24,China
 IP-CIDR,203.205.254.0/23,China
 # >> PUBG Mobile
@@ -316,7 +326,6 @@ HOST-SUFFIX,ronghub.com,China
 HOST-SUFFIX,ruguoapp.com,China
 HOST-SUFFIX,sankuai.com,China
 HOST-SUFFIX,scomper.me,China
-HOST-SUFFIX,seafile.com,China
 HOST-SUFFIX,sm.ms,China
 HOST-SUFFIX,smzdm.com,China
 HOST-SUFFIX,snapdrop.net,China
