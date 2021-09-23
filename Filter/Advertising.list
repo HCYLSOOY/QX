@@ -469,6 +469,9 @@ HOST-SUFFIX,iad-06.braze.com,REJECT
 HOST-SUFFIX,iad-08.braze.com,REJECT
 
 # (C)
+# > CCTVVideo
+HOST,adstore-index-1252524079.file.myqcloud.com,REJECT
+
 # > CNTV
 HOST,galaxy.bjcathay.com,REJECT
 HOST,mdrecv.app.cntvwb.cn,REJECT
@@ -599,6 +602,7 @@ HOST,wxsnsdy.wxs.qq.com,REJECT
 HOST,wxsnsdythumb.wxs.qq.com,REJECT
 # > Tencent Music (TME)
 HOST,ad.tencentmusic.com,REJECT
+HOST,adstats.tencentmusic.com,REJECT
 HOST,adserviceretry.kugou.com,REJECT
 HOST,ads.service.kugou.com,REJECT
 HOST,adsfile.bssdlbig.kugou.com,REJECT
