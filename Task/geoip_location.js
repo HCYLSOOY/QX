@@ -19,10 +19,10 @@
   const paran = ["IP","ISP","地区","城市"]
   $task.fetch(myRequest).then(response => {
     message = response? json2info(response.body,paras) : ""
-      $done({"title":" IP.SB 查询结果","message":message});
+      $done({"title":"IP.SB 查询结果","message":message});
   }, reason => {
-    message = "\n\n 查询超时"
-      $done({"title": " IP.SB 查询结果", "message": message});
+    message = "\n\n查询超时"
+      $done({"title": "IP.SB 查询结果", "message": message});
   })
 
 
