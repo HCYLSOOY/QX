@@ -365,6 +365,7 @@ HOST-SUFFIX,zxrtb.com,REJECT
 HOST-SUFFIX,ad.cmvideo.cn,REJECT
 HOST-SUFFIX,ad.daum.net,REJECT
 HOST-SUFFIX,ad.g.daum.net,REJECT
+HOST-SUFFIX,flurry.com,REJECT
 
 HOST,ads.play.cbsi.video,REJECT
 HOST,abema-adx.ameba.jp,REJECT
