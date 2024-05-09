@@ -14,6 +14,7 @@ HOST-SUFFIX,dropbox.com,Global
 HOST-SUFFIX,dropboxapi.com,Global
 HOST-SUFFIX,dropboxusercontent.com,Global
 # > Facebook
+HOST-SUFFIX,meta.com,Global
 HOST-SUFFIX,facebook.com,Global
 HOST-SUFFIX,facebook.net,Global
 HOST-SUFFIX,fb.com,Global
