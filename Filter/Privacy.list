@@ -44,12 +44,12 @@ HOST,tracklog.58.com,REJECT
 HOST,hm.baidu.com,REJECT
 HOST,hmma.baidu.com,REJECT
 # > ByteDance
-#HOST,log.byteoversea.com,REJECT
-#HOST,log.tiktokv.com,REJECT
-#HOST,log-hl-ipv6.snssdk.com,REJECT
-#HOST,log-lq.snssdk.com,REJECT
-#HOST,log-va.tiktokv.com,REJECT
-#HOST,xlog.snssdk.com,REJECT
+HOST,log.byteoversea.com,REJECT
+HOST,log.tiktokv.com,REJECT
+HOST,log-hl-ipv6.snssdk.com,REJECT
+HOST,log-lq.snssdk.com,REJECT
+HOST,log-va.tiktokv.com,REJECT
+HOST,xlog.snssdk.com,REJECT
 # > Google
 HOST-SUFFIX,googletagmanager.com,REJECT
 HOST-SUFFIX,google-analytics.com,REJECT
