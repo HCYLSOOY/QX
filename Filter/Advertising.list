@@ -454,9 +454,9 @@ IP-CIDR,101.227.200.28/32,REJECT
 IP-CIDR,124.192.153.42/32,REJECT
 # ------
 # > ByteDance
-#HOST-SUFFIX,pangolin-sdk-toutiao.com,REJECT
-#HOST,ad.toutiao.com,REJECT
-#HOST,pangolin.snssdk.com,REJECT
+HOST-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+HOST,ad.toutiao.com,REJECT
+HOST,pangolin.snssdk.com,REJECT
 # > Braze
 HOST-SUFFIX,iad.appboy.com,REJECT
 HOST-SUFFIX,iad-03.appboy.com,REJECT
